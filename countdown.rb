@@ -1,6 +1,8 @@
 #write your code here
 
 def countdown
-  count = 10 
+  integer = 10 
+  while 
   
+end 
 end
